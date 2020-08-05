@@ -1,0 +1,25 @@
+Examples of JSON -> HDFS -> HIVE -> Elasticsearch -> Kibana
+https://www.rittmanmead.com/blog/2014/11/analytics-with-kibana-and-elasticsearch-through-hadoop-part-1-introduction/
+
+Another set of similar examples: 
+https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-03-integrating-hadoop-and-elasticsearch-part-1-loading-and-querying
+https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-05-integrating-hadoop-and-elasticsearch-%E2%80%93-part-2-%E2%80%93-writing-and-querying
+
+
+
+ES Hadoop Connector: 
+https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html
+https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html
+
+
+Other interesting reads: 
+
+https://www.slideshare.net/cloudera/no-etlstratalondon2015
+
+https://community.cloudera.com/t5/Support-Questions/How-to-create-impala-derived-tables/m-p/42254
+
+https://docs.cloudera.com/index.html
+
+https://sparkbyexamples.com/spark/spark-convert-avro-file-to-csv/
+
+https://docs.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_ig_hive.html
